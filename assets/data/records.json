@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Jorge Alviarez",
+    "age": 36,
+    "identification": 5625889,
+    "service": "Por definir",
+    "intervention": "Por definir",
+    "clinic_history": "Por definir",
+    "creation_date": "31/01/2024"
+  },
+  {
+    "name": "Simón Hernández",
+    "age": 38,
+    "identification": 7625889,
+    "service": "Por definir",
+    "intervention": "Por definir",
+    "clinic_history": "Por definir",
+    "creation_date": "31/01/2024"
+  },
+  {
+    "name": "Yohanna Sequera",
+    "age": 34,
+    "identification": 9425839,
+    "service": "Por definir",
+    "intervention": "Por definir",
+    "clinic_history": "Por definir",
+    "creation_date": "31/01/2024"
+  },
+  {
+    "name": "Alexis Aguilar",
+    "age": 38,
+    "identification": 7825689,
+    "service": "Por definir",
+    "intervention": "Por definir",
+    "clinic_history": "Por definir",
+    "creation_date": "31/01/2024"
+  },
+  {
+    "name": "Gloria Hernández",
+    "age": 35,
+    "identification": 5625889,
+    "service": "Por definir",
+    "intervention": "Por definir",
+    "clinic_history": "Por definir",
+    "creation_date": "31/01/2024"
+  }
+]
